@@ -6,76 +6,31 @@
 	overflow: hidden;
 }
 
-.App-header {
+/* .App-header {
 	background-color: #282c34;
 	min-height: 10%;
-	display: flex;
-	align-items: center;
+  display: flex;
+  align-items: center;
 	justify-content: center;
 	font-size: calc(10px + 2vmin);
 	color: white;
 	width: 100%;
 	position: sticky;
-}
+} */
 
 .App-link {
 	color: #61dafb;
 }
 
-html,
-body {
-	height: 100%;
-	width: 100%;
-}
-
 .nav {
-	width: 300px;
+	display: flex;
+	flex-flow: column;
 	height: 100%;
-	position: absolute;
-	transform: translate(-300px, 0);
-	transition: transform 0.3s ease;
+	width: 40%;
+	min-width: 40%;
 }
 
-.nav.open {
-	transform: translate(0, 0);
-}
-
-@media screen and (min-width: 600px) {
-	.nav {
-		position: relative;
-		transform: translate(0, 0);
-	}
-
-	.map {
-		height: 100%;
-		position: relative;
-	}
-}
-
-.nav__list {
-	width: 100%;
-	padding: 0;
-	margin: 0;
-	display: grid;
-}
-
-.nav__item {
-	box-sizing: border-box;
-	display: inline-flex;
-	width: 100%;
-	text-align: center;
-	line-height: 10px;
-	/* padding: 24px;
-  text-transform: uppercase; */
-}
-
-.nav a {
-	text-decoration: none;
-	color: #616161;
-	padding: 1.5em;
-}
-
-.nav a:hover {
-	text-decoration: underline;
-	color: #212121;
+.nav ul {
+	padding-left: 15px;
+	display: flex;
 }
