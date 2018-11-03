@@ -1,10 +1,7 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  height: 100%;
+  width: 100%;
 }
 
 .App-header {
@@ -20,5 +17,73 @@
 
 .App-link {
   color: #61dafb;
+}
+
+html, body, main {
+  height: 100%;
+  width: 100%;
+}
+
+.nav {
+  width: 300px;
+  height: 100%;
+  position: absolute;
+  transform: translate(-300px, 0);
+  transition: transform 0.3s ease;
+}
+
+.nav.open {
+  transform: translate(0, 0);
+}
+
+@media screen and (min-width: 600px) {
+  .nav {
+    position: relative;
+    transform: translate(0, 0);
+  }
+
+  body {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+
+  main {
+    width: auto;
+    flex-grow: 1;
+  }
+
+  .map
+  {
+    height: 100%;
+    position: relative;
+  }
+}
+
+
+.nav__list {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__item {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  line-height: 24px;
+  padding: 24px;
+  text-transform: uppercase;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #616161;
+  padding: 1.5em;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+  color: #212121;
 }
 

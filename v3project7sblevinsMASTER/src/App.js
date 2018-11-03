@@ -7,19 +7,17 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+        <header>
+        <p>This is a header</p>
         </header>
+        <nav id="drawer" class="nav">
+          <ul class="nav__list">
+            <li class="nav__item"><a href="#">News</a></li>
+            <li class="nav__item"><a href="#">Events</a></li>
+            <li class="nav__item"><a href="#">Culture</a></li>
+            <li class="nav__item"><a href="#">Blog</a></li>
+          </ul>
+        </nav>
         <Map />
       </div>
     );
