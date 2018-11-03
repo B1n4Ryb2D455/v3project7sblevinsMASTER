@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import { withGoogleMap, GoogleMap } from 'react-google-maps';
+
+// https://medium.com/@yelstin.fernandes/render-a-map-component-using-react-google-maps-5f7fb3e418bb
+
 class Map extends Component {
     render() {
         const GoogleMapExample = withGoogleMap(props => (
