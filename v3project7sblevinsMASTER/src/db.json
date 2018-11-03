@@ -1,0 +1,747 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5bdce87d1ed21972406152ef"
+    },
+    "response": {
+        "venues": [
+            {
+                "id": "4b4cc50ff964a52026be26e3",
+                "name": "Vehicle Assembly Building (VAB)",
+                "location": {
+                    "address": "VAB Rd",
+                    "crossStreet": "Btwn Utility Rd & Saturn Causeway",
+                    "lat": 28.586010246187403,
+                    "lng": -80.65076351165771,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.586010246187403,
+                            "lng": -80.65076351165771
+                        }
+                    ],
+                    "distance": 1472,
+                    "postalCode": "32920",
+                    "cc": "US",
+                    "city": "Cape Canaveral",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "VAB Rd (Btwn Utility Rd & Saturn Causeway)",
+                        "Cape Canaveral, FL 32920",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12d941735",
+                        "name": "Monument \/ Landmark",
+                        "pluralName": "Monuments \/ Landmarks",
+                        "shortName": "Landmark",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_monument_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4f2179a3e4b0b69d78926a81",
+                "name": "Kennedy Space Center",
+                "location": {
+                    "address": "SR 405",
+                    "lat": 28.57693421401196,
+                    "lng": -80.65074662385041,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.57693421401196,
+                            "lng": -80.65074662385041
+                        }
+                    ],
+                    "distance": 484,
+                    "postalCode": "32899",
+                    "cc": "US",
+                    "city": "Merritt Island",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "SR 405",
+                        "Merritt Island, FL 32899",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4e15fbc51f6e29fb7d553f28",
+                "name": "Bus 3 On The Move!",
+                "location": {
+                    "lat": 28.57278217604574,
+                    "lng": -80.65565487457333,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.57278217604574,
+                            "lng": -80.65565487457333
+                        }
+                    ],
+                    "distance": 652,
+                    "cc": "US",
+                    "city": "Cape Canaveral",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Cape Canaveral, FL",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1fe931735",
+                        "name": "Bus Station",
+                        "pluralName": "Bus Stations",
+                        "shortName": "Bus Station",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/busstation_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4fb69799e4b0a5b7c45c1de2",
+                "name": "SpaceX",
+                "location": {
+                    "crossStreet": "CCAFS",
+                    "lat": 28.58211207523447,
+                    "lng": -80.6515043483643,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.58211207523447,
+                            "lng": -80.6515043483643
+                        }
+                    ],
+                    "distance": 1057,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "CCAFS",
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4cc567afbde8f04d00cab04b",
+                "name": "NASA KSC - OSB II",
+                "location": {
+                    "lat": 28.5811285845789,
+                    "lng": -80.65030007103208,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.5811285845789,
+                            "lng": -80.65030007103208
+                        }
+                    ],
+                    "distance": 928,
+                    "cc": "US",
+                    "city": "Space Center",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Space Center, FL",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "501aacdde4b0981c98b318c2",
+                "name": "NASASocial Bus 1",
+                "location": {
+                    "address": "Saturn Causeway",
+                    "lat": 28.560916683509358,
+                    "lng": -80.6557740771678,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.560916683509358,
+                            "lng": -80.6557740771678
+                        }
+                    ],
+                    "distance": 1487,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Saturn Causeway",
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d12b951735",
+                        "name": "Bus Line",
+                        "pluralName": "Bus Lines",
+                        "shortName": "Bus",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/busstation_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4fa41fa1e4b0dd0f11a3acc4",
+                "name": "Logistics Building",
+                "location": {
+                    "lat": 28.577515359040657,
+                    "lng": -80.65308655819072,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.577515359040657,
+                            "lng": -80.65308655819072
+                        }
+                    ],
+                    "distance": 654,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4b6ff941f964a520e9012de3",
+                "name": "OSB Cafeteria",
+                "location": {
+                    "lat": 28.595516,
+                    "lng": -80.622775,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.595516,
+                            "lng": -80.622775
+                        }
+                    ],
+                    "distance": 3593,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4ce3196d7e9b721e6e9934f1",
+                "name": "Family Dollar",
+                "location": {
+                    "lat": 28.57611111111111,
+                    "lng": -80.6438888888889,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.57611111111111,
+                            "lng": -80.6438888888889
+                        }
+                    ],
+                    "distance": 614,
+                    "postalCode": "32920",
+                    "cc": "US",
+                    "city": "Cape Canaveral",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Cape Canaveral, FL 32920",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1f6941735",
+                        "name": "Department Store",
+                        "pluralName": "Department Stores",
+                        "shortName": "Department Store",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/departmentstore_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "51b1ff1f498e55f942a199ac",
+                "name": "Sonny's BBQ Express, MFF",
+                "location": {
+                    "lat": 28.589542316422204,
+                    "lng": -80.68428558040057,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.589542316422204,
+                            "lng": -80.68428558040057
+                        }
+                    ],
+                    "distance": 3918,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df931735",
+                        "name": "BBQ Joint",
+                        "pluralName": "BBQ Joints",
+                        "shortName": "BBQ",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/bbqalt_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4c9e369354c8a1cded678b4b",
+                "name": "The Liberty Star",
+                "location": {
+                    "lat": 28.583906,
+                    "lng": -80.646136,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.583906,
+                            "lng": -80.646136
+                        }
+                    ],
+                    "distance": 1259,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4bdebec76198c9b620a814ff",
+                "name": "Launch Equipment Shop",
+                "location": {
+                    "lat": 28.580874,
+                    "lng": -80.652399,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.580874,
+                            "lng": -80.652399
+                        }
+                    ],
+                    "distance": 951,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "54da6286498e74b5d9271de3",
+                "name": "Reuters @ Kennedy Space Center",
+                "location": {
+                    "address": "Kennedy Space Center",
+                    "lat": 28.582016533324282,
+                    "lng": -80.64742947499204,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.582016533324282,
+                            "lng": -80.64742947499204
+                        }
+                    ],
+                    "distance": 1029,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Kennedy Space Center",
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4cfddf992d80a143f17159d8",
+                "name": "Multi Service Center Msc 26",
+                "location": {
+                    "lat": 28.58689,
+                    "lng": -80.654559,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.58689,
+                            "lng": -80.654559
+                        }
+                    ],
+                    "distance": 1652,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4c5afbc4f346c9284f6050ca",
+                "name": "The Blind Man",
+                "location": {
+                    "address": "OSB I",
+                    "lat": 28.598672616231074,
+                    "lng": -80.65990271406969,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.598672616231074,
+                            "lng": -80.65990271406969
+                        }
+                    ],
+                    "distance": 3064,
+                    "cc": "US",
+                    "city": "Space Center",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "OSB I",
+                        "Space Center, FL",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1c7941735",
+                        "name": "Snack Place",
+                        "pluralName": "Snack Places",
+                        "shortName": "Snacks",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/snacks_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "58a724c4a370b94d5a202149",
+                "name": "NASA KSC Commercial Crew & Cargo Processing Facility (C3PF)",
+                "location": {
+                    "lat": 28.588243,
+                    "lng": -80.653256,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.588243,
+                            "lng": -80.653256
+                        }
+                    ],
+                    "distance": 1761,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d130941735",
+                        "name": "Building",
+                        "pluralName": "Buildings",
+                        "shortName": "Building",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "50edb2fbe4b0d58ecb1f8eee",
+                "name": "NASA Protective Services Training Academy",
+                "location": {
+                    "lat": 28.557030291927486,
+                    "lng": -80.65612084736136,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.557030291927486,
+                            "lng": -80.65612084736136
+                        }
+                    ],
+                    "distance": 1896,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d126941735",
+                        "name": "Government Building",
+                        "pluralName": "Government Buildings",
+                        "shortName": "Government",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/government_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "516ed8bbe4b01af06afb5c7b",
+                "name": "Crew Transport Vehicle",
+                "location": {
+                    "lat": 28.58938227323867,
+                    "lng": -80.65546523372312,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.58938227323867,
+                            "lng": -80.65546523372312
+                        }
+                    ],
+                    "distance": 1944,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f2a23984b9023bd5841ed2c",
+                        "name": "Moving Target",
+                        "pluralName": "Moving Targets",
+                        "shortName": "Moving Target",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/movingtarget_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "4cd081f17f56a143318dcea6",
+                "name": "CBS News Bureau, Kennedy Space Center",
+                "location": {
+                    "crossStreet": "Saturn Causeway",
+                    "lat": 28.582062328452782,
+                    "lng": -80.6469309392849,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.582062328452782,
+                            "lng": -80.6469309392849
+                        }
+                    ],
+                    "distance": 1042,
+                    "cc": "US",
+                    "city": "Cape Canaveral",
+                    "state": "FL",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Cape Canaveral, FL",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d124941735",
+                        "name": "Office",
+                        "pluralName": "Offices",
+                        "shortName": "Office",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            },
+            {
+                "id": "58244596b4f9620f88840c2f",
+                "name": "No Coffee Zone!",
+                "location": {
+                    "lat": 28.563908,
+                    "lng": -80.653028,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 28.563908,
+                            "lng": -80.653028
+                        }
+                    ],
+                    "distance": 1073,
+                    "cc": "US",
+                    "state": "Florida",
+                    "country": "United States",
+                    "formattedAddress": [
+                        "Florida",
+                        "United States"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1541204093",
+                "hasPerk": false
+            }
+        ],
+        "confident": true
+    }
+}
